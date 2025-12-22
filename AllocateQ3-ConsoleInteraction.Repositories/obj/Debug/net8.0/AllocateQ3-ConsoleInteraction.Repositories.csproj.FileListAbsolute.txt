@@ -1,0 +1,17 @@
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\bin\Debug\net8.0\AllocateQ3-ConsoleInteraction.Repositories.deps.json
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\bin\Debug\net8.0\AllocateQ3-ConsoleInteraction.Repositories.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\bin\Debug\net8.0\AllocateQ3-ConsoleInteraction.Repositories.pdb
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\bin\Debug\net8.0\AllocateQ3-ConsoleInteraction.Models.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\bin\Debug\net8.0\AllocateQ3-ConsoleInteraction.Models.pdb
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\obj\Debug\net8.0\AllocateQ3-ConsoleInteraction.Repositories.csproj.AssemblyReference.cache
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\obj\Debug\net8.0\AllocateQ3-ConsoleInteraction.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\obj\Debug\net8.0\AllocateQ3-ConsoleInteraction.Repositories.AssemblyInfoInputs.cache
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\obj\Debug\net8.0\AllocateQ3-ConsoleInteraction.Repositories.AssemblyInfo.cs
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\obj\Debug\net8.0\AllocateQ3-ConsoleInteraction.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\obj\Debug\net8.0\Allocate.C840A73E.Up2Date
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\obj\Debug\net8.0\AllocateQ3-ConsoleInteraction.Repositories.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\obj\Debug\net8.0\refint\AllocateQ3-ConsoleInteraction.Repositories.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\obj\Debug\net8.0\AllocateQ3-ConsoleInteraction.Repositories.pdb
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\obj\Debug\net8.0\ref\AllocateQ3-ConsoleInteraction.Repositories.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\bin\Debug\net8.0\AllocateQ3-ConsoleInteraction.Common.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Repositories\bin\Debug\net8.0\AllocateQ3-ConsoleInteraction.Common.pdb

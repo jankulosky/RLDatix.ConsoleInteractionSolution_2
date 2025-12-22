@@ -1,0 +1,71 @@
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.exe
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.deps.json
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.dll
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.pdb
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Common.dll
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Models.dll
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Repositories.dll
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Services.dll
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Services.pdb
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Common.pdb
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Models.pdb
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Repositories.pdb
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.dll
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.pdb
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Job-search\Allocate\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.exe
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.deps.json
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.runtimeconfig.json
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.runtimeconfig.dev.json
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.dll
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.pdb
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Common.dll
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Models.dll
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Repositories.dll
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Services.dll
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Services.pdb
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Common.pdb
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Models.pdb
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Repositories.pdb
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.csproj.AssemblyReference.cache
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.AssemblyInfoInputs.cache
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.AssemblyInfo.cs
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\Allocate.9C62F43F.Up2Date
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.dll
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.pdb
+C:\Users\vikto\Downloads\Work\RLDatix\Senior and Principal Assignment - For Review\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.genruntimeconfig.cache
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.exe
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.deps.json
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.runtimeconfig.json
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.runtimeconfig.dev.json
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.pdb
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Common.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Models.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Repositories.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Services.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Services.pdb
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Common.pdb
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Models.pdb
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\bin\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.Repositories.pdb
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.csproj.AssemblyReference.cache
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.AssemblyInfoInputs.cache
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.AssemblyInfo.cs
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\Allocate.9C62F43F.Up2Date
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.pdb
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction\obj\Debug\netcoreapp3.1\AllocateQ3-ConsoleInteraction.genruntimeconfig.cache

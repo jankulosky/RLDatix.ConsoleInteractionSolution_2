@@ -1,0 +1,11 @@
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Models\bin\Debug\net8.0\AllocateQ3-ConsoleInteraction.Models.deps.json
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Models\bin\Debug\net8.0\AllocateQ3-ConsoleInteraction.Models.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Models\bin\Debug\net8.0\AllocateQ3-ConsoleInteraction.Models.pdb
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Models\obj\Debug\net8.0\AllocateQ3-ConsoleInteraction.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Models\obj\Debug\net8.0\AllocateQ3-ConsoleInteraction.Models.AssemblyInfoInputs.cache
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Models\obj\Debug\net8.0\AllocateQ3-ConsoleInteraction.Models.AssemblyInfo.cs
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Models\obj\Debug\net8.0\AllocateQ3-ConsoleInteraction.Models.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Models\obj\Debug\net8.0\AllocateQ3-ConsoleInteraction.Models.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Models\obj\Debug\net8.0\refint\AllocateQ3-ConsoleInteraction.Models.dll
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Models\obj\Debug\net8.0\AllocateQ3-ConsoleInteraction.Models.pdb
+C:\Users\vikto\Downloads\Projects\AllocateQ3-ConsoleInteraction\AllocateQ3-ConsoleInteraction.Models\obj\Debug\net8.0\ref\AllocateQ3-ConsoleInteraction.Models.dll

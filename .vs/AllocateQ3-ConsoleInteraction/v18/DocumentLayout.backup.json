@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C2025F-CBC0-4142-AA77-6D67611D5CF6}|AllocateQ3-ConsoleInteraction.Services\\AllocateQ3-ConsoleInteraction.Services.csproj|c:\\users\\vikto\\downloads\\projects\\allocateq3-consoleinteraction\\allocateq3-consoleinteraction.services\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C2025F-CBC0-4142-AA77-6D67611D5CF6}|AllocateQ3-ConsoleInteraction.Services\\AllocateQ3-ConsoleInteraction.Services.csproj|solutionrelative:allocateq3-consoleinteraction.services\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C2025F-CBC0-4142-AA77-6D67611D5CF6}|AllocateQ3-ConsoleInteraction.Services\\AllocateQ3-ConsoleInteraction.Services.csproj|c:\\users\\vikto\\downloads\\projects\\allocateq3-consoleinteraction\\allocateq3-consoleinteraction.services\\interfaces\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C2025F-CBC0-4142-AA77-6D67611D5CF6}|AllocateQ3-ConsoleInteraction.Services\\AllocateQ3-ConsoleInteraction.Services.csproj|solutionrelative:allocateq3-consoleinteraction.services\\interfaces\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED737440-DD04-4D0E-A80C-5885B9822B24}|AllocateQ3-ConsoleInteraction.Common\\AllocateQ3-ConsoleInteraction.Common.csproj|c:\\users\\vikto\\downloads\\projects\\allocateq3-consoleinteraction\\allocateq3-consoleinteraction.common\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED737440-DD04-4D0E-A80C-5885B9822B24}|AllocateQ3-ConsoleInteraction.Common\\AllocateQ3-ConsoleInteraction.Common.csproj|solutionrelative:allocateq3-consoleinteraction.common\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED737440-DD04-4D0E-A80C-5885B9822B24}|AllocateQ3-ConsoleInteraction.Common\\AllocateQ3-ConsoleInteraction.Common.csproj|c:\\users\\vikto\\downloads\\projects\\allocateq3-consoleinteraction\\allocateq3-consoleinteraction.common\\filepathprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED737440-DD04-4D0E-A80C-5885B9822B24}|AllocateQ3-ConsoleInteraction.Common\\AllocateQ3-ConsoleInteraction.Common.csproj|solutionrelative:allocateq3-consoleinteraction.common\\filepathprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED737440-DD04-4D0E-A80C-5885B9822B24}|AllocateQ3-ConsoleInteraction.Common\\AllocateQ3-ConsoleInteraction.Common.csproj|c:\\users\\vikto\\downloads\\projects\\allocateq3-consoleinteraction\\allocateq3-consoleinteraction.common\\validators\\stringvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED737440-DD04-4D0E-A80C-5885B9822B24}|AllocateQ3-ConsoleInteraction.Common\\AllocateQ3-ConsoleInteraction.Common.csproj|solutionrelative:allocateq3-consoleinteraction.common\\validators\\stringvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED737440-DD04-4D0E-A80C-5885B9822B24}|AllocateQ3-ConsoleInteraction.Common\\AllocateQ3-ConsoleInteraction.Common.csproj|c:\\users\\vikto\\downloads\\projects\\allocateq3-consoleinteraction\\allocateq3-consoleinteraction.common\\interfaces\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED737440-DD04-4D0E-A80C-5885B9822B24}|AllocateQ3-ConsoleInteraction.Common\\AllocateQ3-ConsoleInteraction.Common.csproj|solutionrelative:allocateq3-consoleinteraction.common\\interfaces\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED737440-DD04-4D0E-A80C-5885B9822B24}|AllocateQ3-ConsoleInteraction.Common\\AllocateQ3-ConsoleInteraction.Common.csproj|c:\\users\\vikto\\downloads\\projects\\allocateq3-consoleinteraction\\allocateq3-consoleinteraction.common\\interfaces\\ifilepathprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED737440-DD04-4D0E-A80C-5885B9822B24}|AllocateQ3-ConsoleInteraction.Common\\AllocateQ3-ConsoleInteraction.Common.csproj|solutionrelative:allocateq3-consoleinteraction.common\\interfaces\\ifilepathprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED737440-DD04-4D0E-A80C-5885B9822B24}|AllocateQ3-ConsoleInteraction.Common\\AllocateQ3-ConsoleInteraction.Common.csproj|c:\\users\\vikto\\downloads\\projects\\allocateq3-consoleinteraction\\allocateq3-consoleinteraction.common\\exceptions\\inputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED737440-DD04-4D0E-A80C-5885B9822B24}|AllocateQ3-ConsoleInteraction.Common\\AllocateQ3-ConsoleInteraction.Common.csproj|solutionrelative:allocateq3-consoleinteraction.common\\exceptions\\inputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99BC033-8FB3-4B2D-B1F1-286F18EA7612}|AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.csproj|c:\\users\\vikto\\downloads\\projects\\allocateq3-consoleinteraction\\allocateq3-consoleinteraction\\songplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99BC033-8FB3-4B2D-B1F1-286F18EA7612}|AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.csproj|solutionrelative:allocateq3-consoleinteraction\\songplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99BC033-8FB3-4B2D-B1F1-286F18EA7612}|AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.csproj|c:\\users\\vikto\\downloads\\projects\\allocateq3-consoleinteraction\\allocateq3-consoleinteraction\\helpers\\oldmcdonaldverseformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99BC033-8FB3-4B2D-B1F1-286F18EA7612}|AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.csproj|solutionrelative:allocateq3-consoleinteraction\\helpers\\oldmcdonaldverseformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99BC033-8FB3-4B2D-B1F1-286F18EA7612}|AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.csproj|c:\\users\\vikto\\downloads\\projects\\allocateq3-consoleinteraction\\allocateq3-consoleinteraction\\helpers\\localizationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99BC033-8FB3-4B2D-B1F1-286F18EA7612}|AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.csproj|solutionrelative:allocateq3-consoleinteraction\\helpers\\localizationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99BC033-8FB3-4B2D-B1F1-286F18EA7612}|AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.csproj|c:\\users\\vikto\\downloads\\projects\\allocateq3-consoleinteraction\\allocateq3-consoleinteraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99BC033-8FB3-4B2D-B1F1-286F18EA7612}|AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.csproj|solutionrelative:allocateq3-consoleinteraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Services\\AnimalService.cs",
+              "RelativeDocumentMoniker": "AllocateQ3-ConsoleInteraction.Services\\AnimalService.cs",
+              "ToolTip": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Services\\AnimalService.cs",
+              "RelativeToolTip": "AllocateQ3-ConsoleInteraction.Services\\AnimalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:08:26.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Services\\Interfaces\\IAnimalService.cs",
+              "RelativeDocumentMoniker": "AllocateQ3-ConsoleInteraction.Services\\Interfaces\\IAnimalService.cs",
+              "ToolTip": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Services\\Interfaces\\IAnimalService.cs",
+              "RelativeToolTip": "AllocateQ3-ConsoleInteraction.Services\\Interfaces\\IAnimalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:08:25.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Common\\FileStorage.cs",
+              "RelativeDocumentMoniker": "AllocateQ3-ConsoleInteraction.Common\\FileStorage.cs",
+              "ToolTip": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Common\\FileStorage.cs",
+              "RelativeToolTip": "AllocateQ3-ConsoleInteraction.Common\\FileStorage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:07:52.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilePathProvider.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Common\\FilePathProvider.cs",
+              "RelativeDocumentMoniker": "AllocateQ3-ConsoleInteraction.Common\\FilePathProvider.cs",
+              "ToolTip": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Common\\FilePathProvider.cs",
+              "RelativeToolTip": "AllocateQ3-ConsoleInteraction.Common\\FilePathProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:07:46.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringValidator.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Common\\Validators\\StringValidator.cs",
+              "RelativeDocumentMoniker": "AllocateQ3-ConsoleInteraction.Common\\Validators\\StringValidator.cs",
+              "ToolTip": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Common\\Validators\\StringValidator.cs",
+              "RelativeToolTip": "AllocateQ3-ConsoleInteraction.Common\\Validators\\StringValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:07:44.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Common\\Interfaces\\IFileStorage.cs",
+              "RelativeDocumentMoniker": "AllocateQ3-ConsoleInteraction.Common\\Interfaces\\IFileStorage.cs",
+              "ToolTip": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Common\\Interfaces\\IFileStorage.cs",
+              "RelativeToolTip": "AllocateQ3-ConsoleInteraction.Common\\Interfaces\\IFileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:07:39.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFilePathProvider.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Common\\Interfaces\\IFilePathProvider.cs",
+              "RelativeDocumentMoniker": "AllocateQ3-ConsoleInteraction.Common\\Interfaces\\IFilePathProvider.cs",
+              "ToolTip": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Common\\Interfaces\\IFilePathProvider.cs",
+              "RelativeToolTip": "AllocateQ3-ConsoleInteraction.Common\\Interfaces\\IFilePathProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:07:39.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputException.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Common\\Exceptions\\InputException.cs",
+              "RelativeDocumentMoniker": "AllocateQ3-ConsoleInteraction.Common\\Exceptions\\InputException.cs",
+              "ToolTip": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction.Common\\Exceptions\\InputException.cs",
+              "RelativeToolTip": "AllocateQ3-ConsoleInteraction.Common\\Exceptions\\InputException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:07:37.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LocalizationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction\\Helpers\\LocalizationHelper.cs",
+              "RelativeDocumentMoniker": "AllocateQ3-ConsoleInteraction\\Helpers\\LocalizationHelper.cs",
+              "ToolTip": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction\\Helpers\\LocalizationHelper.cs",
+              "RelativeToolTip": "AllocateQ3-ConsoleInteraction\\Helpers\\LocalizationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:07:20.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OldMcDonaldVerseFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction\\Helpers\\OldMcDonaldVerseFormatter.cs",
+              "RelativeDocumentMoniker": "AllocateQ3-ConsoleInteraction\\Helpers\\OldMcDonaldVerseFormatter.cs",
+              "ToolTip": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction\\Helpers\\OldMcDonaldVerseFormatter.cs",
+              "RelativeToolTip": "AllocateQ3-ConsoleInteraction\\Helpers\\OldMcDonaldVerseFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:02:11.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction\\Program.cs",
+              "RelativeDocumentMoniker": "AllocateQ3-ConsoleInteraction\\Program.cs",
+              "ToolTip": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction\\Program.cs",
+              "RelativeToolTip": "AllocateQ3-ConsoleInteraction\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:55:16.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SongPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction\\SongPlayer.cs",
+              "RelativeDocumentMoniker": "AllocateQ3-ConsoleInteraction\\SongPlayer.cs",
+              "ToolTip": "C:\\Users\\vikto\\Downloads\\Projects\\AllocateQ3-ConsoleInteraction\\AllocateQ3-ConsoleInteraction\\SongPlayer.cs",
+              "RelativeToolTip": "AllocateQ3-ConsoleInteraction\\SongPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:42:00.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
