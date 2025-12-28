@@ -14,23 +14,19 @@ using System.Text;
 Console.OutputEncoding = Encoding.UTF8;
 Console.InputEncoding = Encoding.UTF8;
 
+var culture = CultureResolver.GetCurrentLanguage();
 var services = new ServiceCollection();
-
-Console.WriteLine("Choose your language: English (en) or Macedonian (mk):");
-string? userInput = Console.ReadLine();
-var languagePack = LocalizationHelper.GetCurrentLanguage(userInput);
 
 services.AddSingleton<IFilePathProvider, FilePathProvider>();
 services.AddScoped(typeof(IFileStorage<>), typeof(FileStorage<>));
 
+services.AddSingleton<ILocalizer>(_ => new ResourceLocalizer(culture));
+
 services.AddScoped<IAnimalService, AnimalService>();
 services.AddScoped<IAnimalRepository, AnimalRepository>();
-services.AddSingleton<ISongVerseFormatter>(_ => new OldMcDonaldVerseFormatter(languagePack));
-services.AddSingleton(_ => new SongPlayer(
-    new OldMcDonaldVerseFormatter(languagePack),
-    _.GetRequiredService<IAnimalService>(),
-    languagePack
-));
+
+services.AddSingleton<ISongVerseFormatter, OldMcDonaldVerseFormatter>();
+services.AddSingleton<SongPlayer>();
 
 using var provider = services.BuildServiceProvider();
 

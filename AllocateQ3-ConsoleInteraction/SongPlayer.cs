@@ -1,12 +1,9 @@
 ﻿using AllocateQ3_ConsoleInteraction.Common.Exceptions;
 using AllocateQ3_ConsoleInteraction.Common.Validators;
-using AllocateQ3_ConsoleInteraction.Helpers;
 using AllocateQ3_ConsoleInteraction.Interfaces;
 using AllocateQ3_ConsoleInteraction.Services.Interfaces;
 using System;
-using System.Globalization;
 using System.Linq;
-using System.Resources;
 
 namespace AllocateQ3_ConsoleInteraction
 {
@@ -14,13 +11,13 @@ namespace AllocateQ3_ConsoleInteraction
     {
         private readonly ISongVerseFormatter _formatter;
         private readonly IAnimalService _animalService;
-        private readonly (ResourceManager ResourceManager, CultureInfo Culture) _languagePack;
+        private readonly ILocalizer _localizer;
 
-        public SongPlayer(ISongVerseFormatter formatter, IAnimalService animalService, (ResourceManager, CultureInfo) languagePack)
+        public SongPlayer(ISongVerseFormatter formatter, IAnimalService animalService, ILocalizer localizer)
         {
             _formatter = formatter ?? throw new ArgumentNullException(nameof(formatter));
             _animalService = animalService ?? throw new ArgumentNullException(nameof(animalService));
-            _languagePack = languagePack;
+            _localizer = localizer ?? throw new ArgumentNullException(nameof(localizer));
         }
 
         public void Run()
@@ -36,11 +33,11 @@ namespace AllocateQ3_ConsoleInteraction
                     Console.WriteLine("-----             for             -----");
                     Console.WriteLine("------ Old MacDonald Had a Farm -------");
                     Console.WriteLine("---------------------------------------\n");
-                    Console.WriteLine(LocalizationHelper.GetString(_languagePack, "FirstInputQuestion"));
-                    Console.WriteLine("1. " + LocalizationHelper.GetString(_languagePack, "PlayAllAnimals"));
-                    Console.WriteLine("2. " + LocalizationHelper.GetString(_languagePack, "PlaySingleAnimal"));
-                    Console.WriteLine("3. " + LocalizationHelper.GetString(_languagePack, "AddNewAnimal"));
-                    Console.WriteLine("4. " + LocalizationHelper.GetString(_languagePack, "RemoveAnimal"));
+                    Console.WriteLine(_localizer.GetString("FirstInputQuestion"));
+                    Console.WriteLine("1. " + _localizer.GetString("PlayAllAnimals"));
+                    Console.WriteLine("2. " + _localizer.GetString("PlaySingleAnimal"));
+                    Console.WriteLine("3. " + _localizer.GetString("AddNewAnimal"));
+                    Console.WriteLine("4. " + _localizer.GetString("RemoveAnimal"));
 
                     var input = Console.ReadLine();
 
@@ -63,7 +60,7 @@ namespace AllocateQ3_ConsoleInteraction
                             break;
 
                         default:
-                            Console.WriteLine(LocalizationHelper.GetString(_languagePack, "InvalidInput"));
+                            Console.WriteLine(_localizer.GetString("InvalidInput"));
                             break;
                     }
                 }
@@ -76,7 +73,7 @@ namespace AllocateQ3_ConsoleInteraction
                     Console.WriteLine($"Unexpected error occurred: {ex.Message}");
                 }
 
-                Console.WriteLine(LocalizationHelper.GetString(_languagePack, "StopApplication"));
+                Console.WriteLine(_localizer.GetString("StopApplication"));
                 proceed = Console.ReadLine().Trim().ToLower();
                 Console.Clear();
             } while (proceed != "no");
@@ -98,7 +95,7 @@ namespace AllocateQ3_ConsoleInteraction
 
             if (!animals.Any())
             {
-                Console.WriteLine(LocalizationHelper.GetString(_languagePack, "NoAnimalsAvailable"));
+                Console.WriteLine(_localizer.GetString("NoAnimalsAvailable"));
                 return;
             }
 
@@ -112,12 +109,12 @@ namespace AllocateQ3_ConsoleInteraction
         {
             PrintAnimals();
 
-            Console.Write(LocalizationHelper.GetString(_languagePack, "EnterAnimalType"));
+            Console.Write(_localizer.GetString("EnterAnimalType"));
             var type = Console.ReadLine();
 
             if (string.IsNullOrEmpty(type))
             {
-                Console.WriteLine(LocalizationHelper.GetString(_languagePack, "InvalidInput"));
+                Console.WriteLine(_localizer.GetString("InvalidInput"));
                 return;
             }
 
@@ -125,7 +122,7 @@ namespace AllocateQ3_ConsoleInteraction
 
             if (animal == null)
             {
-                Console.WriteLine(LocalizationHelper.GetString(_languagePack, "AnimalNotFound"));
+                Console.WriteLine(_localizer.GetString("AnimalNotFound"));
                 return;
             }
 
@@ -134,10 +131,10 @@ namespace AllocateQ3_ConsoleInteraction
 
         private void AddAnimal()
         {
-            Console.Write(LocalizationHelper.GetString(_languagePack, "EnterAnimalType"));
+            Console.Write(_localizer.GetString("EnterAnimalType"));
             var type = Console.ReadLine().CheckNullOrEmpty();
 
-            Console.Write(LocalizationHelper.GetString(_languagePack, "EnterAnimalSound"));
+            Console.Write(_localizer.GetString("EnterAnimalSound"));
             var sound = Console.ReadLine().CheckNullOrEmpty();
 
             _animalService.AddAnimal(type, sound);
@@ -145,7 +142,7 @@ namespace AllocateQ3_ConsoleInteraction
             if (type != null && sound != null)
             {
                 _animalService.AddAnimal(type, sound);
-                Console.WriteLine(LocalizationHelper.GetString(_languagePack, "AnimalAdded"));
+                Console.WriteLine(_localizer.GetString("AnimalAdded"));
             }
         }
 
@@ -153,13 +150,13 @@ namespace AllocateQ3_ConsoleInteraction
         {
             PrintAnimals();
 
-            Console.Write(LocalizationHelper.GetString(_languagePack, "EnterAnimalTypeToRemove"));
+            Console.Write(_localizer.GetString("EnterAnimalTypeToRemove"));
             var type = Console.ReadLine()?.Trim();
 
             if (!string.IsNullOrEmpty(type))
             {
                 _animalService.RemoveAnimal(type);
-                Console.WriteLine(LocalizationHelper.GetString(_languagePack, "AnimalRemoved"));
+                Console.WriteLine(_localizer.GetString("AnimalRemoved"));
             }
         }
 
@@ -169,7 +166,7 @@ namespace AllocateQ3_ConsoleInteraction
 
             if (!animals.Any())
             {
-                Console.WriteLine(LocalizationHelper.GetString(_languagePack, "NoAnimalsAvailable"));
+                Console.WriteLine(_localizer.GetString("NoAnimalsAvailable"));
                 return;
             }
 
