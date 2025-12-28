@@ -6,18 +6,21 @@ namespace AllocateQ3_ConsoleInteraction.Common
 {
     public class FilePathProvider : IFilePathProvider
     {
-        private const string FileName = "Animals.txt";
+        private readonly string _filePath;
 
-        public string GetAnimalsFilePath()
+        public FilePathProvider(string filePath)
         {
-            var path = Path.Combine(AppContext.BaseDirectory, FileName);
+            if (string.IsNullOrWhiteSpace(filePath))
+                throw new ArgumentException("File path cannot be null or empty", nameof(filePath));
 
-            if (!File.Exists(path))
+            _filePath = filePath;
+
+            if (!File.Exists(_filePath))
             {
-                File.WriteAllText(path, "[]");
+                File.WriteAllText(_filePath, "[]");
             }
-
-            return path;
         }
+
+        public string GetAnimalsFilePath() => _filePath;
     }
 }
